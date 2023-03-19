@@ -1,0 +1,51 @@
+body {
+  background-color: #e5e5e5;
+  font-family: sans-serif;
+}
+.right-section {
+  padding: 40px 90px;
+}
+.about-me-profession {
+  font-size: 14px;
+  color: black;
+}
+.main-section {
+  display: flex;
+  width: 1200px;
+  margin: 40px auto;
+}
+.contacts-h2 {
+  color: white;
+  padding: 15px;
+}
+.padd-ahref {
+  padding-left: 30px;
+}
+.color-contacts {
+  color: antiquewhite;
+  text-decoration: none;
+}
+.color-li {
+  color: antiquewhite;
+  list-style: none;
+}
+ul .color-li::before {
+  content: '\2022';
+  color: #fb6d3a;
+  padding: 10px;
+}
+img {
+  margin: 30px 20px;
+  width: 260px;
+  height: 350px;
+}
+.about-me-section {
+  padding: 15px;
+}
+/* .project-section {
+}
+.work-experience-section {
+} */
+.sidebar-section {
+  background-color: #1e2939;
+}
